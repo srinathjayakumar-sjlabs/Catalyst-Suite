@@ -36,3 +36,5 @@ More modules are under active development.
 - 🧠 AI Workflow Assistant
 - 🔌 Plugin Marketplace
 - 🌐 Multi-language Support
+
+- Catalyst Suite was designed and developed by Srinath Jayakumar under SJ Labs, leveraging ChatGPT as an AI engineering assistant for ideation, code refinement, debugging, documentation, and development acceleration.
